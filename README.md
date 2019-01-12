@@ -2,6 +2,8 @@
 
 Weather App For China
 
+![pic](https://raw.githubusercontent.com/itning/weather_china/master/pic/a.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
