@@ -1,0 +1,26 @@
+(function() {
+    'use strict';
+    $('.xuan').remove();
+    $('.head').remove();
+    $('.topad').remove();
+    $('.fifh').remove();
+    $('.qxcp').remove();
+    $('.fnav').remove();
+    $('.box-all').remove();
+    $('.xwtt').remove();
+    $('.tuigw').remove();
+    $('.ppyc').remove();
+    $('.tqtt').remove();
+    $('.fish').remove();
+    $('.zbdq').remove();
+    $('.bott').remove();
+    $('.apostertop').remove();
+    $('.jf').remove();
+    $('.setting_shade').remove();
+    $('.setting').remove();
+    $('#channel-nav').remove();
+    $('#cli_dialog_div').remove();
+    $('#air-footer').remove();
+    $('div[style="margin-bottom:10px;"]').remove();
+    $('div[style="margin-bottom:10px;clear:both;"]').remove();
+})();
