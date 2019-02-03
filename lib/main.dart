@@ -11,7 +11,6 @@ class MyApp extends StatelessWidget {
     return InAppWebView(
         initialUrl: "http://e.weather.com.cn/",
         onLoadStop: (InAppWebViewController controller, String url) {
-          print("2222222222");
           Future<String> str = rootBundle.loadString('assets/main.js');
           str.then((s) {
             controller.injectScriptCode(s);
